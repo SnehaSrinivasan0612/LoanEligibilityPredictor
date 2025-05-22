@@ -4,3 +4,4 @@ pandas>=2.1.4
 scikit-learn
 matplotlib>=3.8.2
 pillow>=10.1.0
+seaborn
