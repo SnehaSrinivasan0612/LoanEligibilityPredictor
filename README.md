@@ -2,6 +2,9 @@
 
 This Streamlit application predicts whether a loan application will be approved based on various factors such as income, credit history, education, and more.
 
+## App Demo
+https://loaneligibilitypredictor-l5bbsazfmb2qnhfgcb93dr.streamlit.app/
+
 ## Features
 
 - Interactive form for loan application details
